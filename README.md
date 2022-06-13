@@ -1,2 +1,2 @@
 # Analog-Clock
-This is a responsive analog clock made with html css and js.
+This is a responsive analog clock made using html css and js.
